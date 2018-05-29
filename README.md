@@ -5,34 +5,81 @@ By the way, the list you are about to see is rougly sorted by chronological orde
 
 ###### latest update : 29 May 2018
 
-## กระดานหมาก (Thai Boardgame) ( C#/Unity/Android )
+## UnityBeginner Youtube Channel
+- Past hobby
+- has been left not up-to-date for months
 
-## Kick it Up ( C#/Unity/Android )
+## กระดานหมาก (Thai Boardgame) 
+- C#/Unity
+- Android Game
+- Past hobby
 
-## Video Processing Motion Tracking ( C++/OpenCV )
+## Kick it Up
+- C#/Unity
+- Android Game
+- Past hobby
 
-## Cat on The Cureve ( Unity )
+## Video Processing Motion Tracking
+- C++/OpenCV
+- Year 1 final project of 'C Programming'
 
-## Icecreame Shooter ( Python/PyGame )
+## Cat on The Curve
+- C#/Unity
+- PC game made in 'Global Game Jam 2017' event
+- worked as a team of 3 developers, 2 designer, and 1 artist
 
-## Teacher Quiz App ( C#/Unity/Android )
+## Icecreame Shooter
+- Python/PyGame
+- Year 1 final project of 'Introduction to Programming Languages'
 
-## English Vocab App ( C#/Unity/Android )
+## Teacher Quiz App 
+- C#/Unity
+- Android App
+- freelance project
 
-## Raspberry-Pi Car ( Python/Assembly/GPIO )
+## English Vocab App
+- C#/Unity
+- Android App
+- freelance project
+- worked as a team of 2 developers
 
-## Pronet App ( C#/Unity/Android )
+## Raspberry-Pi Car 
+- Python/Assembly/GPIO
+- Robot-car-kit controlled using Raspberry-Pi
+- Year 2 final group project of 'Assembly and Computer Organization'
+- worked as a team of 2 developers
 
-## One in a Million ( Unity )
+## Pronet App 
+- C#/Unity
+- Android App
+- freelance project
+- worked as a team of 2 developers
 
-## Side-work Static Web ( CSS/HTML )
+## One in a Million
+- C#/Unity
+- PC game made in 'Global Game Jam 2018'
+- worked as a team of 2 developers and 4 artists
+
+## Postcard Static Web
+- CSS/HTML/JS
+- a final project of an Architecture student ( moral hire )
+- worked as a team of 2 developers
 
 ## Crystal Canvas ( Python/Turtle )
+- Python/Turtle
+- a Python module for generating artistical graphic
+- the main purpose of this project is to practice using markdown
+- hobby
 
 ## Dropdown Widget ( Python/PyQt5 )
+- Python/PyQt5
+- UI widget
+- part of a Year 2 final project
 
 ## Hierarchy Widget ( Python/PyQt5 )
-
+- Python/PyQt5
+- UI widget
+- part of a Year 2 final project
 
 
 
