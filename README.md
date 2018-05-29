@@ -40,7 +40,7 @@ By the way, the list you are about to see is rougly sorted by chronological orde
 - freelance project
 - worked as a team of 2 developers
 
-## [Raspberry-Pi Car](https://www.youtube.com/edit?o=U&video_id=ryWFRzGuom0) - [more](https://github.com/maxoja/raspi-car-project)
+## [Raspberry-Pi Car](https://www.youtube.com/watch?v=ryWFRzGuom0) - [more](https://github.com/maxoja/raspi-car-project)
 - `Python/Assembly/GPIO`
 - Robot-car-kit controlled using Raspberry-Pi
 - `Year 2 final group project` of 'Assembly and Computer Organization'
