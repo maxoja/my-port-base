@@ -40,6 +40,11 @@ By the way, the list you are about to see is rougly sorted by chronological orde
 - freelance project
 - worked as a team of 2 developers
 
+## [ดูดวงรายวัน 365](https://play.google.com/store/apps/details?id=com.sweoriental.orangetree.horoscope365&hl=th)
+- `C#/Unity` `Android App` `iOS App`
+- freelance project
+- worked as a team with of 1 developer(me) and 2 artists
+
 ## [Raspberry-Pi Car](https://www.youtube.com/watch?v=ryWFRzGuom0) - [more](https://github.com/maxoja/raspi-car-project)
 - `Python/Assembly/GPIO`
 - Robot-car-kit controlled using Raspberry-Pi
