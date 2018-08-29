@@ -3,7 +3,7 @@ I use this repository as a way to represent my portfolio in software development
 
 By the way, the list you are about to see is rougly sorted by chronological order ( the earliest comes first ).
 
-###### latest update : 29 May 2018
+###### latest update : 29 Aug 2018
 
 ## [UnityBeginner](https://www.youtube.com/channel/UCf_RVd_Nz2m55IaYIkq_vHg)
 - `Youtube Channel`
@@ -83,7 +83,7 @@ By the way, the list you are about to see is rougly sorted by chronological orde
 - `Python/PyQt5` `UI widget`
 - part of a Year 2 final project
 
-
-
-
-
+## [KMITL VR Bike Multiplayer](https://github.com/maxoja/kmitl-vr-bike)
+- `C#/Unity` `GearVR/Mobile` `Python/Socket` `Raspi/GPIO`
+- voluntary project for [IC Openhouse 2018 event](https://www.facebook.com/interkmitl/posts/2141444859263772)
+- led the team of 6 main developers from different years
