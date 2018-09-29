@@ -24,3 +24,11 @@
 -> `collaborative`  
 -> `open to new challenges`  
 -> `able to take ownership of projects to bring them to fruition`  
+
+## 2. From statistics, these are top 6 soft skills that employers look
+- Willingness to Learn
+- Commitment
+- Reliability
+- Self-Motivation
+- Team Work
+- Oral Communation
