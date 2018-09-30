@@ -43,4 +43,10 @@
 - Global Game Jam
 - Presessional courses & First Meet
 
+## 4. For each occurrence, describe the STAR (Situation, Task, Action, Result)
+- !!make your quality obvious!!
+- Situation (.2)
+- Task (.1)
+- Action (.6)
+- Result (.1)
 
